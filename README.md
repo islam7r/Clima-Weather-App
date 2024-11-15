@@ -25,9 +25,9 @@ An intuitive weather app delivering real-time weather information tailored to yo
 	1.	Clone the repository:  git clone https://github.com/islam7r/Clima-Weather-App.git  
     2.	Open the project in Xcode.
 	3.	Install necessary dependencies if applicable (e.g., via CocoaPods or Swift Package Manager).
-	4.	Set up the Clima API key:  
-	    •	Go to the Clima API website and create an account to obtain an API key.
-	    •	In the project, locate the APIKeys.swift file and add your Clima API key.
+	4.	Set up the OpenWeather API key:  
+	    •	Go to the OpenWeather API website and create an account to obtain an API key.
+	    •	In the project, locate the APIKeys.swift file and add your OpenWeather API key.
 	5.	Run the app on your preferred simulator or device.
 
 Usage
